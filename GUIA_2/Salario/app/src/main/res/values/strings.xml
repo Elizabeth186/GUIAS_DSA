@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Salario</string>
+    <string name="titulo">Deduccion Salarial</string>
+    <string name="instrucciones">Ingrese los siguientes datos:</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="respuesta">DEDUCCION</string>
+    <string name="nombre">Nombre</string>
+    <string name="salario">Horas de trabajo</string>
+
+
+</resources>
