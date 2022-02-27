@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SalarioFragment</string>
+    <string name="titulo">Deduccion Salarial</string>
+    <string name="instrucciones">Ingrese los siguientes datos:</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="respuesta">DEDUCCION</string>
+    <string name="nombre">Nombre</string>
+    <string name="salario">Horas de trabajo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="indicacion">INFORMACION</string>
+    <string name="indicacion2">Descuentos aplicados:</string>
+    <string name="afp">AFP 4% </string>
+    <string name="iss">ISS 3%</string>
+    <string name="renta">RENTA 5%</string>
+    <string name="precio">PRECIO POR HORA $8.50</string>
+</resources>
