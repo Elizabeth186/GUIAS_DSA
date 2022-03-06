@@ -13,11 +13,22 @@ public class Dogs implements Serializable {
 
         @SerializedName("Raza")
         private String Raza;
+    @SerializedName("Description")
+    private  String Description;
 
-        public Dogs(int id, String Name, String Raza) {
+        @SerializedName("photo")
+        private  String photo;
+
+    @SerializedName("Img")
+    private  String Img;
+
+        public Dogs(int id, String Name, String Raza,String Description, String photo, String Img) {
             this.setId(id);
             this.setName(Name);
             this.setRaza(Raza);
+            this.setDescription(Description);
+            this.setPhoto(photo);
+            this.setImg(Img);
         }
 
         public Dogs() {
@@ -46,6 +57,29 @@ public class Dogs implements Serializable {
         public void setRaza(String Raza) {
             this.Raza = Raza;
         }
+
+    public String getDescription() {
+        return Description;
+    }
+
+    public void setDescription(String Description) {
+        this.Description = Description;
+    }
+
+    public String getphoto() {
+        return photo;
+    }
+
+    public void setPhoto(String photo) {
+        this.photo = photo;
+    }
+    public String getImg() {
+        return Img;
+    }
+
+    public void setImg(String Img) {
+        this.Img = Img;
+    }
 
 
 }
