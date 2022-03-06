@@ -1,3 +1,3 @@
 # GUIAS_DSA
 JSON - GUIA_4
-https://github.com/Elizabeth186/RepoJSON/blob/main/perros_json.json
+https://raw.githubusercontent.com/Elizabeth186/Elizabeth186.github.io/main/perros_json.json
